@@ -1,0 +1,19 @@
+.ButtonRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ButtonRow button {
+    background-color: rgb(48, 48, 48);
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.EmployeeCard {
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+}

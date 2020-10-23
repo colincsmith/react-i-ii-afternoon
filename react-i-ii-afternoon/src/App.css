@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(48, 48, 48);
+}
+
+.header{
+  background-color: rgb(39, 150, 187);
+  width: 100%;
+  height: 75px;
+  display: flex;
+}
+
+.header h2 {
+  padding-left: 20px;
+  color: rgb(41, 41, 41);
+}
+
+.main{
+  width: 100%;
+  height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ButtonRow {
+  width: 1000px;
+  height: 75px;
+}
